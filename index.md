@@ -1,4 +1,3 @@
 ---
 layout: first
-# Index page
 ---
